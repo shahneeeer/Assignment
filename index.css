@@ -1,0 +1,65 @@
+*{margin: 0px; padding: 0px;}
+.main{margin-left: 5%; margin-right: 5%;}
+.nav{background-color: black;color: white;font-size:larger ;padding:1%;overflow: hidden;}
+ul{list-style: none;}
+a{color: white;text-decoration: none;float:right;padding: 0% 1%;}
+.mar{margin-top: 2%;}
+.le{float: left;}
+.ri{float:right;}
+.marr{margin-left: 2%;}
+.clr{clear: both;}
+.content{height: 220px;background:url("images/design-header.jpg");text-align: center;}
+.pad{padding-top: 2%;}
+.padd{padding-bottom: 2%;}
+.cl1{background-color: greenyellow;color: black;}
+.cl2{background-color: lightskyblue;color: black;}
+.cl{
+    
+    width:31%;
+    color:white;
+    background-color: blue;
+    min-height: 250px;
+    box-sizing: border-box;
+    
+}
+.footer{background-color: black;color: red;height: 200px;}
+.cll{
+     width:31%;
+    color:white;
+    background-color:white;
+    min-height: 150px;
+    box-sizing: border-box;
+    
+    
+    
+}
+#im1{
+    background: url("images/nature1.jpg");text-align:center; 
+}
+#im2{
+    background: url("images/nature2.jpg");text-align:center;
+}
+#im3{
+    background: url("images/nature3.jpg");text-align:center;
+}
+h3{background-color:black;color:white;}
+.marg{margin-top: 61%;}
+#bor{border-radius: 50%;}
+.imar{margin-top: 5%;}
+#tt{text-align: center;color: black;}
+.tmar{margin-top: 15%;}
+.aa{color: white;text-decoration: none;float:left;padding:0% 2%;}
+.mm{float:right; padding:0% 1%;}
+.hr{color:red;background-color:black;display: inline;}
+form{background: url("images/login.jpg") ;color:red;}
+@media screen and (max-width:510px){
+    .nav{
+        color:chartreuse;
+    }
+
+}
+
+
+
+
+
